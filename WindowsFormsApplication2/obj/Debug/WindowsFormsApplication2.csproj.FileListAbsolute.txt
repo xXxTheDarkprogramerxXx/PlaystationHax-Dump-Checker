@@ -1,0 +1,21 @@
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main_Tool.resources
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Problems_Page.resources
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\PlaystationHax Dump Checker\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\PlaystationHax Dump Checker\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\PlaystationHax Dump Checker\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\PlaystationHax Dump Checker\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\PlaystationHax Dump Checker\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\PlaystationHax Dump Checker\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\PlaystationHax Dump Checker\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\PlaystationHax Dump Checker\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main_Tool.resources
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\PlaystationHax Dump Checker\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Problems_Page.resources
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\PlaystationHax Dump Checker\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\3de Echelon\Documents\Visual Studio 2012\Projects\PlaystationHax Dump Checker\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
